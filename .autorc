@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sinustek23",
+  "repo": "container-djuhndg",
+  "name": "sinustek23",
+  "email": "sinus.tekatek@gmail.com",
+}
